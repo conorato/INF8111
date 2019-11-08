@@ -1,0 +1,2 @@
+TP2/gwu/*.txt filter=lfs diff=lfs merge=lfs -text
+TP2/data/*.csv filter=lfs diff=lfs merge=lfs -text
